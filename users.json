@@ -1,1 +1,6 @@
-[{"name":"novo","user":"ej23","email":"novo@user.com","password":"123"},{"name":"novo","user":"novouser","email":"novo@user.com","password":"novo"},{"name":"edison","user":"junior","email":"ej@neo.com","password":"001122"},{"name":"Edison Junior","user":"jr23","email":"edison.junior@neogrid.com","password":"001122"},{"name":"Ligia","user":"lg23","email":"ligia@nreo.com","password":"123"},{"name":"val","user":"val23","email":"val@val.com","password":"123"},{"name":"NOVO","user":"visitante","email":"visitante@user.com","password":"2023"}]
+[{"name":"Edison","user":"ej23","email":"ej@user.com","password":"123"},
+{"name":"Ligia","user":"lg23","email":"lg23@user.com","password":"456"},
+{"name":"Eloysi","user":"elo23","email":"elo@user.com","password":"789"},
+{"name":"Valdenir","user":"val23","email":"val@user.com","password":"123"},
+{"name":"Gutemberg","user":"gut23","email":"gut@user.com","password":"456"},
+{"name":"NOVO","user":"visitante","email":"visitante@user.com","password":"2023"}]
